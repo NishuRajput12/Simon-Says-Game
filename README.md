@@ -33,7 +33,7 @@ The game ends if you click the wrong color.
 🚀 Run the Game Locally
 Clone the repository:https://github.com/NishuRajput12/Simon-Says-Game.git
 
-Live Demo:gamesayssimon.netlify.app/
+
 
 
 
